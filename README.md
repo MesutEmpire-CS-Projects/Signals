@@ -1,6 +1,5 @@
-# SHELL SCRIPTING
+# SIGNALS - C
 
-## BASICS
 
 ### Question 1.
 
