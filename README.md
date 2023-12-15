@@ -1,6 +1,6 @@
-# README.md
+# SHELL SCRIPTING
 
-## FOR SUBMISSION
+## BASICS
 
 ### Question 1.
 
